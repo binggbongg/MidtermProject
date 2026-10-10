@@ -16,6 +16,7 @@ Run the notebook cells from top to bottom. The notebook also supports being run 
 - `outputs/pca_clusters.png` - exploratory groups projected onto two PCA axes
 - `outputs/cluster_diagnostic_rates.png` - observed biopsy and Schiller positivity by group
 - `outputs/biopsy_rate_by_cluster.png` - biopsy positivity with group sizes labeled
+- `outputs/biopsy_association_rules.png` - biopsy-positive share for the top co-occurrence rules, with group sizes and the overall rate for context
 
 ## Current result snapshot
 
